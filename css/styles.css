@@ -34,8 +34,8 @@ h3{
 a{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
-    margin: 10px 20px;
     text-decoration: none;
+    font-weight: bold;
 }
 
 a:hover{
